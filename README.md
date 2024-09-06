@@ -17,4 +17,4 @@ Your challenge is to apply a design pattern that provides a flexible and scalabl
 added without disrupting the existing system's functionality.
 
 UML Class Diagram
-![Blank diagram(1)](https://github.com/user-attachments/assets/2c405166-0d4e-4d1f-885c-9f4869a51dc0)
+![Blank diagram(2)](https://github.com/user-attachments/assets/1eb02540-0f2c-42ff-a44b-c2246b80c803)
